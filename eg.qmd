@@ -1,0 +1,10 @@
+---
+title: "eg"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+data <- read_csv("/courses/EDS221/example/data.csv")
+```
